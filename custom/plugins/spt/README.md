@@ -1,7 +1,6 @@
 # spt autocomplete plugin
 
 - Adds autocomplete options for all spt commands.
-- Add autocomplete for `adb -s`
 
 ## Requirements
 
